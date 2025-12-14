@@ -1,7 +1,7 @@
 {
   "concerts": [
     {
-      "img": "../../assets/itzyflix/concerts/checkmate-tour.jpg",
+      "img": "../../assets/itzyflix-2/concerts/checkmate-tour.jpg",
       "links": [
         {
           "title": "Seoul Concert",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "img": "../../assets/itzyflix/concerts/bornToBe-tour.jpg",
+      "img": "../../assets/itzyflix-2/concerts/bornToBe-tour.jpg",
       "links": [
         {
           "title": "Seoul Concert",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "img": "../../assets/itzyflix/concerts/first-fan-meeting.jpg",
+      "img": "../../assets/itzyflix-2/concerts/first-fan-meeting.jpg",
       "links": [
         {
           "title": "Part 1",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "img": "../../assets/itzyflix/concerts/second-fan-meeting.jpg",
+      "img": "../../assets/itzyflix-2/concerts/second-fan-meeting.jpg",
       "links": [
         {
           "title": "Part 1",
@@ -57,27 +57,27 @@
       ]
     },
     {
-      "img": "../../assets/itzyflix/concerts/third-fan-meeting.jpg",
+      "img": "../../assets/itzyflix-2/concerts/third-fan-meeting.jpg",
       "url": "https://www.bilibili.tv/en/video/4793225902690304?bstar_from=bstar-web.ugc-video-detail.playlist.all"
     },
     {
-      "img": "../../assets/itzyflix/concerts/guessWho-showcase.jpg",
+      "img": "../../assets/itzyflix-2/concerts/guessWho-showcase.jpg",
       "url": "https://youtu.be/8rOIrzYN-cw?si=MtxfRAtrUhOUfE9L"
     },
     {
-      "img": "../../assets/itzyflix/concerts/crazyInLove-showcase.jpg",
+      "img": "../../assets/itzyflix-2/concerts/crazyInLove-showcase.jpg",
       "url": "https://youtu.be/NEwgzCeLEnc?si=mro5Pd2TDDnccHaZ"
     },
     {
-      "img": "../../assets/itzyflix/concerts/killMyDoubt-showcase.jpg",
+      "img": "../../assets/itzyflix-2/concerts/killMyDoubt-showcase.jpg",
       "url": "https://youtu.be/B6WlE_uMy9E?si=admwTG4Qsgar2xTN"
     },
     {
-      "img": "../../assets/itzyflix/concerts/first-fan-Party.jpg",
+      "img": "../../assets/itzyflix-2/concerts/first-fan-Party.jpg",
       "url": "https://www.bilibili.tv/en/video/2041383143?bstar_from=bstar-web.ugc-video-detail.playlist.all"
     },
     {
-      "img": "../../assets/itzyflix/concerts/we-all-are-one.jpg",
+      "img": "../../assets/itzyflix-2/concerts/we-all-are-one.jpg",
       "url": "https://www.bilibili.tv/en/video/2048983356?bstar_from=bstar-web.ugc-video-detail.playlist.all"
     }
   ]

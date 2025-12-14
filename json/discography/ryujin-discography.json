@@ -2,7 +2,7 @@
   "main-discography": [
     {
       "title": "Run Away - Solo Song",
-      "img": "../../assets/discography/itzy/born-to-be.jpg",
+      "img": "/assets/discography-2/itzy/born-to-be.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=JkpcLwR3VTk&si=Qdu7bXgtJuZ7IJ12", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/4e94KIas5maH8RixY26LiN?si=9a014b0e396b4c87", "icon": "fa-brands fa-spotify" },
@@ -15,7 +15,7 @@
   "collabs": [
     {
       "title": "Break My Heart Myself (Bebe Rexha feat. Yeji & Ryujin)",
-      "img": "../../assets/discography/yeji/bmhm.jpg",
+      "img": "/assets/discography-2/yeji/bmhm.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=9QVyxvo6oxM&si=2aFQzkQLYJyKDKmH", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB?si=b02e8364107c4106", "icon": "fa-brands fa-spotify" },

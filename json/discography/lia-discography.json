@@ -2,7 +2,7 @@
   "main-discography": [
     {
       "title": "Blossom - Solo Song",
-      "img": "../../assets/discography/itzy/born-to-be.jpg",
+      "img": "/assets/discography-2/itzy/born-to-be.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=ebA3k0BK9Kc&si=XFgF4jZ_pjmpuf7X", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/1GUOz1gZZTRWkGjwmrIYO8?si=1dc6c61c4e4a4a8f", "icon": "fa-brands fa-spotify" },
@@ -15,7 +15,7 @@
   "osts": [
     {
       "title": "Always Be Your Star",
-      "img": "../../assets/discography/lia/always-be-your-star.jpg",
+      "img": "/assets/discography-2/lia/always-be-your-star.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=aewp6Q7r_e8&si=gBpTTRqtN4iGbnNm", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/04uLMJFa1x21WX9J4QYF83?si=182eed23bf4f4ef2", "icon": "fa-brands fa-spotify" },
@@ -24,7 +24,7 @@
     },
     {
       "title": "Blue Flower",
-      "img": "../../assets/discography/lia/blue-flower.jpg",
+      "img": "/assets/discography-2/lia/blue-flower.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=8dNkF34p8Eg&si=T_9BXnpy5BfHMHdq", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76?si=96a6dc79ad9c4538", "icon": "fa-brands fa-spotify" },
@@ -33,7 +33,7 @@
     },
     {
       "title": "One Hundred Love",
-      "img": "../../assets/discography/lia/one-hundred-love.jpg",
+      "img": "/assets/discography-2/lia/one-hundred-love.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=jTzM9Lf01zQ&si=quut-PnFFyJP22kl", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6?si=ff1c2ab3349e42a5", "icon": "fa-brands fa-spotify" },
@@ -42,7 +42,7 @@
     },
     {
       "title": "Why Not",
-      "img": "../../assets/discography/lia/why-not.jpg",
+      "img": "/assets/discography-2/lia/why-not.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=Qc1RQ3aUsU8&si=NCd2AARuM8pFoMZR", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL?si=139e9487e0ac43fc", "icon": "fa-brands fa-spotify" },
@@ -51,7 +51,7 @@
     },
     {
       "title": "Woodahe (Lia & Choo Young Woo)",
-      "img": "../../assets/discography/lia/woodahe.jpg",
+      "img": "/assets/discography-2/lia/woodahe.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=1_mNP6oA3y4&si=wOYgZzb07rOoPO-c", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/5zqwFI0qVuC5sDN5v96hLp?si=a2d90a8a57c84d44", "icon": "fa-brands fa-spotify" },
@@ -60,7 +60,7 @@
     },
     {
       "title": "One Day",
-      "img": "../../assets/discography/lia/one-day.jpg",
+      "img": "/assets/discography-2/lia/one-day.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=aZUdF22iN_I&si=JLMl_Sed_M-YOMI7", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/1TmUlYvtxNvj8jFEoRsHzw?si=1ea32cbf818a425a", "icon": "fa-brands fa-spotify" },

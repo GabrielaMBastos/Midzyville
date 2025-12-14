@@ -2,7 +2,7 @@
   "main-discography": [
     {
       "title": "Mine - Solo Song",
-      "img": "../../assets/discography/itzy/born-to-be.jpg",
+      "img": "/assets/discography-2/itzy/born-to-be.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=HnXCezrJEdM&si=CYnk5xSoKkkC5hlO", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/0vVjP9MvzcaGdy2gKgbGcb?si=64bf5f9cf09942f6", "icon": "fa-brands fa-spotify" },
@@ -15,7 +15,7 @@
   "collabs": [
     {
       "title": "Doremifasollatido (Vocal. Chaeryeong)",
-      "img": "../../assets/discography/chaeryeong/doremifasollatido.jpg",
+      "img": "/assets/discography-2/chaeryeong/doremifasollatido.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=PtuXKkX6Few&si=B1jHVKHDhjHxy9It", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/5YIq0tkdh2zFCT5vCTGz0U?si=100dc73850ba48b7", "icon": "fa-brands fa-spotify" },
@@ -27,7 +27,7 @@
   "osts": [
     {
       "title": "21",
-      "img": "../../assets/discography/chaeryeong/21.jpg",
+      "img": "/assets/discography-2/chaeryeong/21.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=nEujw62DKbM&si=t971QzbwpD9uSodX", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/2PPWmaG3n3r0CO42zfpBsd?si=5f090851b78346f2", "icon": "fa-brands fa-spotify" },

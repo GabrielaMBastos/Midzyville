@@ -2,7 +2,7 @@
   "main-discography": [
     {
       "title": "Yet, But - Solo Song",
-      "img": "../../assets/discography/itzy/born-to-be.jpg",
+      "img": "/assets/discography-2/itzy/born-to-be.jpg",
       "links": [
         { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=e365KI_DLUc&si=_m7cadayzimlLFi5", "icon": "fa-brands fa-youtube" },
         { "name": "Spotify", "url": "https://open.spotify.com/track/5xvvYrp0VcaigWP088jybs?si=9fd29e304f1f48f6", "icon": "fa-brands fa-spotify" },

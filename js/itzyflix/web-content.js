@@ -17,10 +17,16 @@ fetch("/json/itzyflix/web-content.json")
       div.classList.add("item");
 
       div.innerHTML = `
-        <div class="card-img">
-          <img src="${item.img}" alt="">
-        </div>
-      `;
+  <div class="card-img">
+    <img 
+      src="${item.img}" 
+      alt="" 
+      loading="lazy"
+      decoding="async"
+    >
+  </div>
+`;
+
 
       div.addEventListener("click", () => {
         // Caso 1: link direto
