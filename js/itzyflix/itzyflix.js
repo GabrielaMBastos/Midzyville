@@ -6,6 +6,8 @@
     el.className = "card";
 
     const img = document.createElement("img");
+    img.src = item.img;
+
     img.src = item.img.startsWith("/") ? item.img : "/" + item.img;
     img.alt = item.title || "";
 
