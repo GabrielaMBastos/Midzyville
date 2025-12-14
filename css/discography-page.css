@@ -86,7 +86,6 @@ main h1 {
 }
 
 .card-title {
-  font-weight: 500;
   color: #8c3232;
   font-size: 14px;
   margin: 0;
@@ -181,6 +180,13 @@ main h1 {
 }
 
 @media (max-width: 460px){
+
+  .wrapper.carousel .card {
+    width: 145px;
+  }
+  .wrapper.carousel .card img {
+    height: 145px;
+  }
 
   main h1{
     font-size: 25px;

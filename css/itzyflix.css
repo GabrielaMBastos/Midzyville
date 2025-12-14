@@ -70,8 +70,6 @@
 /* carossel*/
 .card {
   flex: 0 0 auto;
-  width: calc((100% / 3.2) - 10px); /* mobile peek do 4º */
-  min-width: 90px;
   max-width: 220px;
   box-shadow: 0 4px 8px #0002;
   transition: 0.3s;
@@ -159,12 +157,6 @@
     padding-right: 0.5em;
     gap: 10px;
   }
-  .card {
-    flex: 0 0 auto;
-    width: calc((100% / 3.2) - 10px); /* 3 cards + início do 4º */
-    min-width: 90px;
-    margin-right: 5px;
-  }
 
   .category-title {
   z-index: 0;
@@ -189,10 +181,9 @@
   font-size: 20px;
 }
 
-  .card {
-    width: 130px;
-    min-width: 130px;
-  }
+.card img{
+  width: 115px;
+}
 
   .all-content {
   font-size: 14px;
@@ -207,12 +198,8 @@
 }
 
 @media (max-width: 375px) {
-  nav a {
-    font-size: 16px;
-  }
-  .card {
-    width: 120px;
-    min-width: 120px;
+  .card img{
+    width: 100;
   }
 }
 

@@ -37,9 +37,12 @@
     let leftBtn, rightBtn;
 
     function getCardWidth() {
-      const card = track.querySelector(".card");
-      return card ? card.offsetWidth + GAP_PX : wrapperEl.clientWidth * 0.6;
-    }
+  const card = track.querySelector(".card");
+  if (!card) return wrapperEl.clientWidth * 0.6;
+
+  return card.getBoundingClientRect().width + GAP_PX;
+}
+
 
     function getVisibleCount() {
       const cw = getCardWidth();
