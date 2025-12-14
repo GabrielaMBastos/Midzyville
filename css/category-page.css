@@ -143,14 +143,11 @@
   }
 }
 
-/* Tablet */
 @media (max-width: 1024px) {
   .category-section {
     grid-template-columns: repeat(4, 1fr);
   }
 }
-
-/* Mobile grande */
 @media (max-width: 768px) {
   .category-section {
     grid-template-columns: repeat(4, 1fr);
@@ -184,12 +181,4 @@
   .modal-content {
   width: 80%;
 }
-
-
-}
-
-@media (max-width: 375px) {
-  .category-section {
-    grid-template-columns: repeat(2, 1fr);
-  }
 }
