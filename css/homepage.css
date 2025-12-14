@@ -1,0 +1,163 @@
+
+.home-body{
+    height: 100vh;
+    align-content: center;
+}
+
+.home-container{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo{
+    width: 650px;
+}
+
+.menu-container ul{
+    display: flex;
+    gap: 1em;
+    margin: 2em 0 1em 0;
+}
+
+.menu-container li{
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    border: solid 2px #8C3232;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 0.8em 1.6em;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    transition: 0.3s ease;
+}
+
+li i{
+    font-size: 20px;
+     color: #8C3232;
+   
+}
+
+.menu-container a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #8C3232;
+}
+
+.itzyflix a{
+    color: #fff;
+}
+
+.itzyflix i{
+    color: #fff;
+}
+
+.menu-container li:hover{
+    transform: translateY(-6px);
+}
+
+.banner1{
+    width: 850px;
+    border-radius: 10px;
+}
+
+.banner2{
+    display: none;
+}
+
+
+footer{
+    text-align: center;
+    margin-top: 4em;
+    color: #8C3232;
+}
+
+footer a{
+color: #8C3232;}
+
+
+/* responsividade*/
+@media (max-width: 1024px) {
+}
+
+@media (max-width: 768px) {
+    .logo{
+        width: 600px;
+    }
+
+    .menu-container ul{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        width: 600px;
+    }
+
+    .menu-container li{
+         padding: 1em 0;
+    }
+
+    .banner1{
+        width: 600px;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo{
+        width: 350px;
+    }
+
+    .menu-container ul{
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+    }
+
+    .fa-solid.fa-circle-info,
+    .fa-solid.fa-users,
+    .fa-solid.fa-music{
+        display: none;
+    }
+    .menu-container a{
+        font-size: 20px;
+    }
+
+    .banner1{
+        display: none;
+    }
+
+    .banner2{
+        display:block;
+        border-radius: 10px;
+    }
+
+    footer{
+        margin-top: 2em;
+    }
+
+
+}
+
+@media (max-width: 375px) {
+    .logo{
+        width: 300px;
+    }
+
+    .menu-container ul{
+        display: flex;
+        flex-direction: column;
+        width: 280px;
+    }
+
+    
+
+    .banner2{
+        width: 280px;
+    }
+
+    footer{
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Midzyville - ITZYFLIX</title>
+
+  <link rel="stylesheet" href="/css/reset.css" />
+  <link rel="stylesheet" href="/css/styles.css" />
+  <link rel="stylesheet" href="/css/itzyflix.css" />
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    crossorigin="anonymous"
+  />
+</head>
+
+<body>
+  <header class="header-container">
+    <div class="header-menu">
+      <a href="/index.html">
+        <img src="/assets/logo.png" alt="Logo" />
+      </a>
+
+      <nav>
+          <ul>
+            <li>
+              <a href="/pages/about.html">About</a>
+            </li>
+            <li>
+              <a href="/pages/members.html">Members</a>
+            </li>
+            <li>
+              <a href="/pages/discography/itzy-discography.html">Discography</a>
+            </li>
+            <a href="/pages/itzyflix/itzyflix.html">
+              <li class="itzyflix">
+                <i class="fa-solid fa-circle-play"></i>
+                <a href="/pages/itzyflix/itzyflix.html">ITZYFLIX</a>
+              </li>
+            </a>
+          </ul>
+        </nav>
+    </div>
+    <div id="side-nav-container"></div>
+  </header>
+
+  <main>
+
+    <div class="category-menu">
+      <ul>
+        <li>
+          <a href="/pages/itzyflix/this-is-itzy.html">This is ITZY</a>
+          <a href="/pages/itzyflix/performances.html">Performances</a>
+          <a href="/pages/itzyflix/covers.html">Covers & Live Music</a>
+          <a href="/pages/itzyflix/web-content.html">Variety Shows</a>
+          <a href="/pages/itzyflix/concerts.html">Concerts</a>
+          <a href="/pages/itzyflix/more.html">More Contents</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="category-container">
+      <div class="category-title">
+        <a href="/pages/itzyflix/this-is-itzy.html" class="category-name">This is ITZY</a>
+        <a href="/pages/itzyflix/this-is-itzy.html" class="all-content">see all</a>
+      </div>
+      <div id="thisIsItzy" class="wrapper"></div>
+    </div>
+
+    <div class="category-container">
+      <div class="category-title">
+        <a href="/pages/itzyflix/performances.html" class="category-name">Performances</a>
+        <a href="/pages/itzyflix/performances.html" class="all-content">see all</a>
+      </div>
+      <div id="performances" class="wrapper"></div>
+    </div>
+
+    <div class="category-container">
+      <div class="category-title">
+        <a href="/pages/itzyflix/covers.html" class="category-name">Covers & Live Music</a>
+        <a href="/pages/itzyflix/covers.html" class="all-content">see all</a>
+      </div>
+      <div id="covers" class="wrapper"></div>
+    </div>
+
+    <div class="category-container">
+      <div class="category-title">
+        <a href="/pages/itzyflix/web-content.html" class="category-name">Variety Shows & Web Content</a>
+        <a href="/pages/itzyflix/web-content.html" class="all-content">see all</a>
+      </div>
+      <div id="webContent" class="wrapper"></div>
+    </div>
+
+    <div class="category-container">
+      <div class="category-title">
+        <a href="/pages/itzyflix/concerts.html" class="category-name">Concerts & Fan Meetings</a>
+        <a href="/pages/itzyflix/concerts.html" class="all-content">see all</a>
+      </div>
+      <div id="concerts" class="wrapper"></div>
+    </div>
+
+    <div class="category-container">
+      <div class="category-title">
+        <a href="/pages/itzyflix/more.html" class="category-name">More Contents</a>
+        <a href="/pages/itzyflix/more.html" class="all-content">see all</a>
+      </div>
+      <div id="more" class="wrapper"></div>
+    </div>
+
+  </main>
+
+  <div class="modal-overlay" id="modal">
+      <div class="modal-content">
+        <button class="modal-close">×</button>
+        <h3>Watch contents</h3>
+        <ul class="modal-links"></ul>
+      </div>
+    </div>
+
+  <script src="/js/itzyflix/itzyflix.js"></script>
+  <script src="/js/side-nav.js" defer></script>
+</body>
+</html>

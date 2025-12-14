@@ -1,0 +1,47 @@
+{
+  "main-discography": [
+    {
+      "title": "Crown On My Head - Solo Song",
+      "img": "../../assets/discography/itzy/born-to-be.jpg",
+      "links": [
+        { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=nCDHXw5GSDU&si=qEsbnVvMHplfkNB0", "icon": "fa-brands fa-youtube" },
+        { "name": "Spotify", "url": "https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC?si=fce007eb14364678", "icon": "fa-brands fa-spotify" },
+        { "name": "Apple Music", "url": "https://music.apple.com/us/album/crown-on-my-head-yeji/1718647224?i=1718647344", "icon": "fa-brands fa-itunes" }
+      ]
+    },
+    {
+      "title": "Debut EP",
+      "img": "../../assets/discography/yeji/air.jpg",
+      "links": [
+        { "name": "YouTube Music", "url": "https://music.youtube.com/playlist?list=OLAK5uy_m11De6voKPIXWG0zVZJKYMshQTnQEnbaU&si=SZtTX2OtpdWi1az2", "icon": "fa-brands fa-youtube" },
+        { "name": "Spotify", "url": "https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS?si=uHcTN8byReeQff5vqmGyZQ", "icon": "fa-brands fa-spotify" },
+        { "name": "Apple Music", "url": "https://music.apple.com/us/album/air-ep/1798736126", "icon": "fa-brands fa-itunes" }
+      ]
+    }
+    
+  ],
+
+  "collabs": [
+    {
+      "title": "Break My Heart Myself (Bebe Rexha feat. Yeji & Ryujin)",
+      "img": "../../assets/discography/yeji/bmhm.jpg",
+      "links": [
+        { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=9QVyxvo6oxM&si=2aFQzkQLYJyKDKmH", "icon": "fa-brands fa-youtube" },
+        { "name": "Spotify", "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB?si=b02e8364107c4106", "icon": "fa-brands fa-spotify" },
+        { "name": "Apple Music", "url": "https://music.apple.com/us/album/break-my-heart-myself-single/1635865435", "icon": "fa-brands fa-itunes" }
+      ]
+    }
+  ],
+
+  "osts": [
+    {
+      "title": "Think About You",
+      "img": "../../assets/discography/yeji/think-about-you.jpg",
+      "links": [
+        { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=k4p41Epo8cA&si=QHk9JykCZFfHzABU", "icon": "fa-brands fa-youtube" },
+        { "name": "Spotify", "url": "https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG?si=5fd21a303a734703", "icon": "fa-brands fa-spotify" },
+        { "name": "Apple Music", "url": "https://music.apple.com/us/album/think-about-you-from-love-your-enemy/1782309652?i=1782309653", "icon": "fa-brands fa-itunes" }
+      ]
+    }
+  ]
+}

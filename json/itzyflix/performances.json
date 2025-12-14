@@ -1,0 +1,44 @@
+{
+  "performances": [
+    {
+      "img": "../../assets/itzyflix/performances/dance-performance.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNaf_g-qMZ6avyive95L1Orh1&si=XUVkTefrMGBl9qBV"
+    },
+    {
+      "img": "../../assets/itzyflix/performances/live-performance.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNae556ujwyP6KOWRO6-HE906&si=mvc3eRhLl8gHh-6E"
+    },
+    {
+      "img": "../../assets/itzyflix/performances/be-original.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNace8zQrkwBz_tuSm7e-Ti7X&si=D1eYm80lBJTJANRB"
+    },
+    {
+      "img": "../../assets/itzyflix/performances/artist-of-the-month.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNae5WirPzEir81CSUf3OGbTp&si=6fV2Mil07EFoW_Cx"
+    },
+    {
+      "img": "../../assets/itzyflix/performances/mix-max.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNadXKIImZQqP3EN_Shesi1mG&si=JYF9GSQhuUmnLJ3m"
+    },
+    {
+      "img": "../../assets/itzyflix/performances/move-to-performance.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNae6Rj0EKMiifTHrs3uBcSPN&si=lFN5hDn5KcJrMNQ5"
+    },
+    {
+      "img": "../../assets/itzyflix/performances/relay-dance.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNac6s1plQ_cjcJQPbZMoTvhx&si=-3tV5o7DgqBhw5lU"
+    },
+    {
+      "img": "../../assets/itzyflix/performances/award-shows.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNaekjp1218IDxO9QbNdsiReO&si=KZ_DZ2ZIt6OEswi7"
+    },
+    {
+      "img": "../../assets/itzyflix/performances/special-stages.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNafvLzeG4irHPaq3_16-9ETK&si=xkPMTcFUptDBTZtI"
+    },
+    {
+      "img": "../../assets/itzyflix/performances/music-shows.jpg",
+      "url": "https://youtube.com/playlist?list=PLnje7IHR9mTY5VZwolOhIfdHoQZYsH271&si=7PhWndG5UK46cBGo"
+    }
+  ]
+}
