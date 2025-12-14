@@ -34,7 +34,7 @@ header{
 .header-container {
   width: 90%;
   margin: 0 auto;
-  padding: 1em 0 2em 0;
+  padding: 1em 0 1em 0;
 }
 .header-menu {
   display: flex;
@@ -144,6 +144,7 @@ nav a:hover {
   text-align: center;
   margin-bottom: 1em;
   color: #fff;
+  font-size: 14px;
 }
 
 .nav-side-icon {
@@ -189,7 +190,7 @@ nav a:hover {
   gap: 10px;
   overflow-x: auto;
   scroll-behavior: smooth;
-  padding: 1em;
+  padding: 1em 0em;
 }
 .track::-webkit-scrollbar {
   display: none;
@@ -236,6 +237,11 @@ nav a:hover {
   .header-menu nav {
     display: none;
   }
+
+  .header-container img {
+    width: 120px;
+  }
+
 }
 
 

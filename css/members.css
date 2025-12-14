@@ -25,6 +25,7 @@ h1{
     align-self: start;
     padding-left: 3.2em;
     margin-bottom: 12px;
+     margin-top: 0.5em;
 }
 
 .member-container img{
@@ -116,6 +117,7 @@ i{
     }
 
     h1{
+      font-size: 40px;
       padding-left:  1.1em;
     }
 
@@ -137,16 +139,8 @@ i{
 
 
 @media (max-width: 480px){
-
-  .header-container img {
-    width: 140px;
-  }
-  .header-menu{
-    overflow-y: hidden;
-  }
-
   h1{
-    font-size: 45px;
+    font-size: 32px;
   }
 
   .right-side{
@@ -158,32 +152,25 @@ i{
   }
 
   .infos-container li{
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .socials-container ul{
     padding-left: 1em;
   }
 
-
-  }
-@media (max-width: 375px){
-
-  h1{
-    font-size: 35px;
+  i{
+    font-size: 18px;
   }
 
-  .socials-container a{
+   .socials-container  p{
+      font-size: 16px;
+
+}
+
+.socials-container a{
     padding: 0.2em 0.5em;
   }
 
-  i{
-    font-size: 20px;
+
   }
-
-  .socials-container  p{
-      font-size: 16px;
-  
-
-}
-}

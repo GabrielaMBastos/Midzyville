@@ -169,10 +169,6 @@ main{
   width: 85%;
 }
 
-.header-container img {
-    width: 120px;
-  }
-
   nav li {
     flex-wrap: wrap;
     justify-content: center;

@@ -86,7 +86,7 @@ main h1 {
 }
 
 .card-title {
-  font-weight: 600;
+  font-weight: 500;
   color: #8c3232;
   font-size: 14px;
   margin: 0;
@@ -167,13 +167,17 @@ main h1 {
     font-size: 25px;
   }
 
+  .menu{
+    padding: 0.4em 0;
+  }
+
   .menu a {
-      font-size: 16px;
-      padding: 0.5em 1em;
+      font-size: 14px;
+      padding: 0.5em 0.8em;
   }
 
   .menu li {
-      gap: 0.5em;
+      gap: 0.4em;
   }
 }
 

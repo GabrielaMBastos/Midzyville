@@ -1,5 +1,5 @@
 (function () {
-  const GAP_PX = 14;
+  const GAP_PX = 8;
 
   function criarCard(item) {
     const el = document.createElement("div");
@@ -26,8 +26,6 @@
 
     const track = document.createElement("div");
     track.className = "track";
-    track.style.paddingLeft = "1em";
-    track.style.paddingRight = "1em";
 
     itens.forEach((item) => track.appendChild(criarCard(item)));
 

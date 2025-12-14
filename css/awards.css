@@ -13,12 +13,13 @@ h1 {
 .awards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  gap: 2rem;
+  gap: 1em;
+  margin-bottom: 1em;
 }
 
 .year {
   background: #fff;
-  padding: 2em;
+  padding: 1.5em;
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
@@ -35,7 +36,6 @@ h1 {
   list-style: none;
   padding: 0;
   margin: 0;
-  padding-bottom: 1em;
 }
 
 .year li {
@@ -68,42 +68,65 @@ strong{
   main{
     width: 90%;
   }
-  
-  .awards {
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-}
+
+  .year {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1em;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+
+  .year h2 {
+    font-size: 20px;
+    border: none;
+    padding: 0;
+    color: #8C3232;
+    margin-bottom: 0;
+    align-items: center;
+  }
+
+  .year ul {
+    display: none;
+  }
+
+  .year.active ul {
+    display: block;
+  }
+
+  .year h2 {
+    cursor: pointer;
+    position: relative;
+  }
+
+  .year h2::after {
+    content: "▾";
+    padding-right: 1em;
+    position: absolute;
+    right: 0;
+    transition: transform 0.3s ease;
+  }
+
+  .year.active h2::after {
+    transform: rotate(180deg);
+  }
 }
 
 
 @media (max-width: 480px){
 
-  .header-container img {
-    width: 140px;
-  }
-  .header-menu{
-    overflow-y: hidden;
-  }
-
-  main{
-    align-items: center;
-    width: 100%;
-  }
-
   h1{
-    font-size: 45px;
+    font-size: 32px;
     margin-bottom: 0.2em;
   }
 
-   .awards {
-    display: flex;
-    flex-direction: column;
-    width: 90%;
-}
+  .section-title{
+    border-bottom: none;
+    margin: 0.5em 0;
+  }
 
-.section-title{
-  border-bottom: none;
-  margin: 2rem 0 1rem;
-}
+  .year li, strong{
+    font-size: 14px
+  }
 
 
 }

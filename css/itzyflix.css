@@ -84,7 +84,7 @@
 .card img {
   width: 100%;
   height: 100%;
-  border-radius: 8px;
+  border-radius: 7px;
 }
 
 /* modal*/
@@ -154,8 +154,8 @@
   }
 
   .track {
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
     gap: 10px;
   }
   .card {
@@ -173,25 +173,20 @@
   font-size: 25px;
 }
 
-  .menu a {
-    font-size: 16px;
-    padding: 0.5em 1em;
+  .category-menu a {
+    font-size: 14px;
+    padding: 0.5em 0.8em;
   }
 
-  .menu li {
-    gap: 0.5em;
+  .category-menu li {
+    gap: 0.4em;
   }
-
 }
 
 @media (max-width: 460px) {
   .card {
-    width: calc((100% / 3.2) - 8px);
-    min-width: 80px;
-  }
-
-  .category-menu a{
-    font-size: 16px;
+    width: 130px;
+    min-width: 130px;
   }
 
   .all-content {
@@ -199,10 +194,9 @@
 }
 
 .track {
-    padding-left: 1em;
-    padding-right: 1em;
     gap: 3px;
   }
+
 
   .modal-content {
   width: 80%;
@@ -214,8 +208,8 @@
     font-size: 16px;
   }
   .card {
-    width: calc((100% / 3.2) - 6px);
-    min-width: 70px;
+    width: 120px;
+    min-width: 120px;
   }
 }
 

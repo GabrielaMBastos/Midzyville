@@ -147,20 +147,25 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 0.8em;
   }
-}
 
-@media (max-width: 460px) {
-  .category-section {
-    grid-template-columns: repeat(3, 1fr); /* mantém 3 */
-    gap: 0.6em;
+  .category-menu a {
+    font-size: 14px;
+    padding: 0.5em 0.8em;
+  }
+
+  .category-menu li {
+    gap: 0.4em;
   }
 
   .category-name{
     font-size: 25px;
   }
+}
 
-   .category-menu a{
-    font-size: 16px;
+@media (max-width: 460px) {
+  .category-section {
+    grid-template-columns: repeat(3, 1fr); /* mantém 3 */
+    gap: 0.4em;
   }
 
   .modal-content {
