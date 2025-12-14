@@ -24,7 +24,7 @@
 .menu li {
   display: flex;
   gap: 0.7em;
-  padding: 0.5em 1em;
+  padding: 0.5em;
 }
 
 .menu a {
@@ -79,7 +79,7 @@ main h1 {
 }
 
 .card-body {
-  padding: 0.6rem;
+  padding: 0 0.5em;
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
@@ -148,11 +148,10 @@ main h1 {
     gap: 12px;
   }
   .wrapper.carousel .card {
-    width: 60vw;
-    max-width: 180px;
+    width: 160px;
   }
   .wrapper.carousel .card img {
-    height: 180px;
+    height: 160px;
   }
 
   .card-links a {
@@ -183,20 +182,12 @@ main h1 {
 
 @media (max-width: 460px){
 
-  .wrapper.carousel .card {
-    width: 60vw;
-    max-width: 150px;
-  }
-  .wrapper.carousel .card img {
-    height: 150px;
-  }
-
   main h1{
     font-size: 25px;
   }
 
   .category-title {
-    font-size: 22px;
+    font-size: 20px;
   }
 
 }

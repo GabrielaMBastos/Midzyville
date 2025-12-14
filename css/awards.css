@@ -96,11 +96,13 @@ strong{
   .year h2 {
     cursor: pointer;
     position: relative;
+    display: flex;
   }
 
   .year h2::after {
     content: "▾";
     padding-right: 1em;
+    font-size:30px;
     position: absolute;
     right: 0;
     transition: transform 0.3s ease;

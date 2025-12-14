@@ -22,7 +22,7 @@
 .category-menu li {
   display: flex;
   gap: 0.7em;
-  padding: 0.5em 1em;
+  padding: 0.5em;
 }
 .category-menu a {
   text-decoration: none;

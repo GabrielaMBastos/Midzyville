@@ -26,6 +26,8 @@
 
     const track = document.createElement("div");
     track.className = "track";
+    track.style.paddingLeft = '0.5em';
+    track.style.paddingRight = '0.5em';
 
     itens.forEach((item) => track.appendChild(criarCard(item)));
 

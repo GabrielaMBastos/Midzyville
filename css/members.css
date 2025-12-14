@@ -97,10 +97,6 @@ i{
         font-size: 55px;
   }
 
-   .right-side{
-    line-height: 1.8em;
-  }
-
   .socials-container ul {
     margin-top: 0.5em;
     margin-bottom: 1em;
@@ -138,6 +134,7 @@ i{
 
 
 
+
 @media (max-width: 480px){
   h1{
     font-size: 32px;
@@ -152,7 +149,7 @@ i{
   }
 
   .infos-container li{
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .socials-container ul{

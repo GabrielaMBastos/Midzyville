@@ -1,4 +1,5 @@
 
+
 .category-menu {
   display: flex;
   overflow-x: auto;            
@@ -24,7 +25,7 @@
 .category-menu li {
   display: flex;
   gap: 0.7em;
-  padding: 0.5em 1em;
+  padding: 0.5em;
 }
 .category-menu a {
   text-decoration: none;
@@ -184,6 +185,10 @@
 }
 
 @media (max-width: 460px) {
+  .category-name {
+  font-size: 20px;
+}
+
   .card {
     width: 130px;
     min-width: 130px;
@@ -192,11 +197,9 @@
   .all-content {
   font-size: 14px;
 }
-
 .track {
     gap: 3px;
   }
-
 
   .modal-content {
   width: 80%;

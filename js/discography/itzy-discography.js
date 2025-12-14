@@ -42,8 +42,8 @@
 
   const track = document.createElement('div');
   track.className = 'track';
-  track.style.paddingLeft = '1em';
-  track.style.paddingRight = '1em';
+  track.style.paddingLeft = '0.5em';
+  track.style.paddingRight = '0.5em';
 
   itens.forEach(item => track.appendChild(criarCard(item)));
 
@@ -54,8 +54,14 @@
 
   function getCardWidth() {
     const card = track.querySelector('.card');
-    return card ? card.offsetWidth + GAP_PX : wrapperEl.clientWidth * 0.6;
+    if (!card) return wrapperEl.clientWidth * 0.6;
+
+    const style = getComputedStyle(card);
+    const gap = parseFloat(style.marginRight) || GAP_PX;
+
+    return card.getBoundingClientRect().width + gap;
   }
+
 
   function getVisibleCount() {
     const cw = getCardWidth();
