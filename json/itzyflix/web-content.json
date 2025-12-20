@@ -46,7 +46,7 @@
     },
     {
       "img": "../../assets/itzyflix-2/web-content/itzzz.jpg",
-      "url": "https://youtube.com/playlist?list=PLnje7IHR9mTZ_1snWNcW_KYV_zv5x1MSI&si=yRS6BK818zChfBxu"
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNad2wiAQTTLMwmsDTTwGvUIj&si=cmBzFZgRUg2seLEw"
     },
     {
       "img": "../../assets/itzyflix-2/web-content/hit-village.jpg",
@@ -380,8 +380,41 @@
       "url": "https://youtu.be/9FTjM93OT9g?si=BftYLUVNPTEkyzH-"
     },
     {
+      "img": "../../assets/itzyflix-2/web-content/star-cooking-show.jpg",
+      "url": "https://youtu.be/i8Lxlr_7uO4?si=csm_DcQgtqYshP2t"
+    },
+    {
       "img": "../../assets/itzyflix-2/web-content/do-you-want-some-ramyeon.jpg",
       "url": "https://youtu.be/VdBsxhCbq8c?si=AnKMb0EjawVSk_K3"
+    },
+    {
+      "img": "../../assets/itzyflix-2/web-content/musinsa.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNaf7_Sxx-BF7nEnIe1gEoVg1&si=Gft6a7BX6xhZSn4g"
+    },
+    {
+      "img": "../../assets/itzyflix-2/web-content/all-tastes-of-itzy.jpg",
+      "url": "https://youtube.com/playlist?list=PLbgZ_XL7QNaccfBrxsSkhd15jtXwYcNDy&si=IsX531OeQ9idLzDp"
+    },
+    {
+      "img": "../../assets/itzyflix-2/web-content/minjus-pink-cabinet.jpg",
+      "url": "https://youtu.be/DwEGeiZWZNc?si=P6ZvectxI0M6io3_"
+    },
+    {
+      "img": "../../assets/itzyflix-2/web-content/jonathans-morning-stroll.jpg",
+      "url": "https://youtu.be/J--88xNT4aQ?si=TGKCI83ycqyzENZi"
+    },
+    {
+      "img": "../../assets/itzyflix-2/web-content/changing-majors.jpg",
+      "url": "https://www.youtube.com/watch?v=wFedVNjflgY"
+    },
+    {
+      "img": "../../assets/itzyflix-2/web-content/pixid.jpg",
+      "url": "https://youtu.be/cayp_1mrLa8?si=WKqQ2ZTyHz6mC0zd"
+    },
+    {
+      "img": "../../assets/itzyflix-2/web-content/workdol.jpg",
+      "url": "https://youtu.be/ChADORFgcmc?si=nxb_iNZ5ydhI_4yn"
     }
+
   ]
 }
