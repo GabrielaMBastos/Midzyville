@@ -66,6 +66,15 @@
         { "name": "Spotify", "url": "https://open.spotify.com/track/1TmUlYvtxNvj8jFEoRsHzw?si=1ea32cbf818a425a", "icon": "fa-brands fa-spotify" },
         { "name": "Apple Music", "url": "https://music.apple.com/us/song/one-day/1846275416", "icon": "fa-brands fa-itunes" }
       ]
+    },
+    {
+      "title": "How I Love You",
+      "img": "/assets/discography-2/lia/how-i-love-you.jpg",
+      "links": [
+        { "name": "YouTube Music", "url": "https://music.youtube.com/watch?v=mcTiFKFvn88&si=94kvBxeE9Xz1uO8g", "icon": "fa-brands fa-youtube" },
+        { "name": "Spotify", "url": "https://open.spotify.com/track/3eVKqI1WekNvjUrOdap7vp?si=eeec1f0e919245cf", "icon": "fa-brands fa-spotify" },
+        { "name": "Apple Music", "url": "https://music.apple.com/br/album/idol-i-pt-6-original-soundtrack-single/1865851540", "icon": "fa-brands fa-itunes" }
+      ]
     }
   ]
 }
